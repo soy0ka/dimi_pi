@@ -1,6 +1,5 @@
 import RPi.GPIO as gpio
 import time
-import random
 
 red = 4
 yellow = 17

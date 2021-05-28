@@ -25,17 +25,20 @@
 1. [수행평가](https://github.com/Muzihuzi/dimi_pi/blob/main/01_gpio_digital/three_led.py)<br>
 
 ## 02 GPIO PWM Digital
-[폴더로 이동](https://github.com/Muzihuzi/dimi_pi/tree/main/01_gpio_pwn)
+[폴더로 이동](https://github.com/Muzihuzi/dimi_pi/tree/main/01_gpio_pwn)<br>
 #### 아날로그 신호 주기<br>
-1. [LED 페이드](https://github.com/Muzihuzi/dimi_pi/blob/main/02_gpio_pwn/led_fade.py)
+1. [LED 페이드](https://github.com/Muzihuzi/dimi_pi/blob/main/02_gpio_pwn/led_fade.py)<br>
 #### 피에조 부저<br>
-1. [기본 소리내기](https://github.com/Muzihuzi/dimi_pi/blob/main/02_gpio_pwn/piezo_buzzer.py)
-1. [멜로디 내기](https://github.com/Muzihuzi/dimi_pi/blob/main/02_gpio_pwn/piezo_buzzer2.py)
+1. [기본 소리내기](https://github.com/Muzihuzi/dimi_pi/blob/main/02_gpio_pwn/piezo_buzzer.py)<br>
+1. [멜로디 내기](https://github.com/Muzihuzi/dimi_pi/blob/main/02_gpio_pwn/piezo_buzzer2.py)<br>
 #### 서보모터<br>
-1. [기본 소리내기](https://github.com/Muzihuzi/dimi_pi/blob/main/02_gpio_pwn/servo_motor.py)
+1. [기본 소리내기](https://github.com/Muzihuzi/dimi_pi/blob/main/02_gpio_pwn/servo_motor.py)<br>
 
 ## 03 HIGH LEVEL SENSOR
-[폴더로 이동](https://github.com/Muzihuzi/dimi_pi/tree/main/03_high_level_seneor)
+[폴더로 이동](https://github.com/Muzihuzi/dimi_pi/tree/main/03_high_level_seneor)<br>
 #### 초음파 센서<br>
-1. [거리측정](https://github.com/Muzihuzi/dimi_pi/blob/main/03_high_level_seneor/ultra_sonic.py)
-1. [거리에따른 LED점멸](https://github.com/Muzihuzi/dimi_pi/blob/main/03_high_level_seneor/ultra_sonic_led.py)
+1. [거리측정](https://github.com/Muzihuzi/dimi_pi/blob/main/03_high_level_seneor/ultra_sonic.py)<br>
+1. [거리에따른 LED점멸](https://github.com/Muzihuzi/dimi_pi/blob/main/03_high_level_seneor/ultra_sonic_led.py)<br>
+#### 인체감지 센서<br>
+1. [인체감지]](https://github.com/Muzihuzi/dimi_pi/blob/main/03_high_level_seneor/ultra_sonic.py)<br>
+1. [인체감지 조명]](https://github.com/Muzihuzi/dimi_pi/blob/main/03_high_level_seneor/ultra_sonic_led.py)<br>

@@ -32,7 +32,7 @@
 1. [기본 소리내기](https://github.com/Muzihuzi/dimi_pi/blob/main/02_gpio_pwn/piezo_buzzer.py)<br>
 1. [멜로디 내기](https://github.com/Muzihuzi/dimi_pi/blob/main/02_gpio_pwn/piezo_buzzer2.py)<br>
 #### 서보모터<br>
-1. [기본 소리내기](https://github.com/Muzihuzi/dimi_pi/blob/main/02_gpio_pwn/servo_motor.py)<br>
+1. [기본 각도조정](https://github.com/Muzihuzi/dimi_pi/blob/main/02_gpio_pwn/servo_motor.py)<br>
 
 ## 03 HIGH LEVEL SENSOR
 [폴더로 이동](https://github.com/Muzihuzi/dimi_pi/tree/main/03_high_level_seneor)<br>

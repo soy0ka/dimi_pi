@@ -17,4 +17,4 @@ try:
 
 finally:
     pwm.stop()
-    gpio.cleamup()
+    gpio.cleanup()

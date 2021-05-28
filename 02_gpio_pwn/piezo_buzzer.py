@@ -12,4 +12,4 @@ time.sleep(2)
 pwm.ChangeDutyCycle(0)
 
 pwm.stop()
-gpio.cleamup()
+    gpio.cleanup()

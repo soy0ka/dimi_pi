@@ -16,3 +16,6 @@ try:
         for j in range(100, -1, -5):
             pwm.ChangeDutyCycle(j)
             time.sleep(0.1)
+finally:
+    pwm.stop()
+    gpio.cleanup()

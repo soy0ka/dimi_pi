@@ -40,5 +40,5 @@
 1. [거리측정](https://github.com/Muzihuzi/dimi_pi/blob/main/03_high_level_seneor/ultra_sonic.py)<br>
 1. [거리에따른 LED점멸](https://github.com/Muzihuzi/dimi_pi/blob/main/03_high_level_seneor/ultra_sonic_led.py)<br>
 #### 인체감지 센서<br>
-1. [인체감지]](https://github.com/Muzihuzi/dimi_pi/blob/main/03_high_level_seneor/pir.py)<br>
-1. [인체감지 조명]](https://github.com/Muzihuzi/dimi_pi/blob/main/03_high_level_seneor/pir_led.py)<br>
+1. [인체감지](https://github.com/Muzihuzi/dimi_pi/blob/main/03_high_level_seneor/pir.py)<br>
+1. [인체감지 조명](https://github.com/Muzihuzi/dimi_pi/blob/main/03_high_level_seneor/pir_led.py)<br>

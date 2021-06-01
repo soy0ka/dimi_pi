@@ -43,4 +43,4 @@
 1. [인체감지](https://github.com/Muzihuzi/dimi_pi/blob/main/03_high_level_seneor/pir.py)<br>
 1. [인체감지 조명](https://github.com/Muzihuzi/dimi_pi/blob/main/03_high_level_seneor/pir_led.py)<br>
 #### 온습도 센서<br>
-1. [온습도 센스](https://github.com/Muzihuzi/dimi_pi/blob/main/03_high_level_seneor/dht11.py)<br>
+1. [온습도 센서](https://github.com/Muzihuzi/dimi_pi/blob/main/03_high_level_seneor/dht11.py)<br>

@@ -1,7 +1,7 @@
 # dimi_pi
 
 수업 안듣고 딴짓하다 코드 못적었으면 여기서 코드 가져가삼<br>
-__**수행평가는 공개하지 않습니다**__
+__**수행평가는 공개하지 않습니다**__ 본인스스로 응용해서 코드를 작성하시기 바랍니다
 
 ## 01 GPIO Digital
 [폴더로 이동](https://github.com/Muzihuzi/dimi_pi/tree/main/01_gpio_digital)

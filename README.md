@@ -1,7 +1,7 @@
 # dimi_pi
 
 수업 안듣고 딴짓하다 코드 못적었으면 여기서 코드 가져가삼<br>
-__**수행평가는 공개하지 않습니다**__ 본인스스로 응용해서 코드를 작성하시기 바랍니다
+<span style="color:red">**__수행평가는 공개하지 않습니다__** 본인스스로 응용해서 코드를 작성하시기 바랍니다</span>
 
 ## 01 GPIO Digital
 [폴더로 이동](https://github.com/Muzihuzi/dimi_pi/tree/main/01_gpio_digital)
@@ -14,16 +14,12 @@ __**수행평가는 공개하지 않습니다**__ 본인스스로 응용해서 �
 [외전 (랜덤)](https://github.com/Muzihuzi/dimi_pi/blob/main/01_gpio_digital/random_blink.py)<br>
 1. 입력받아  LED제어<br>
 [파이썬](https://github.com/Muzihuzi/dimi_pi/blob/main/01_gpio_digital/input.py)<br>
-1. 신호등 만들기 실습 (수행평가)<br>
-[파이썬](https://github.com/Muzihuzi/dimi_pi/blob/main/01_gpio_digital/traffic_light.py)<br>
-[외전 (랜덤)](https://github.com/Muzihuzi/dimi_pi/blob/main/01_gpio_digital/random_traffic.py)<br>
 
 #### 스위치 제어<br>
 1. 스위치 제어<br>
 [스위치 입력받기](https://github.com/Muzihuzi/dimi_pi/blob/main/01_gpio_digital/switch.py)<br>
 [스위치로 LED제어](https://github.com/Muzihuzi/dimi_pi/blob/main/01_gpio_digital/switch_led.py)<br>
 1. [내부 풀다운 저항](https://github.com/Muzihuzi/dimi_pi/blob/main/01_gpio_digital/switch_pud.py)<br>
-1. [수행평가](https://github.com/Muzihuzi/dimi_pi/blob/main/01_gpio_digital/three_led.py)<br>
 
 ## 02 GPIO PWM Digital
 [폴더로 이동](https://github.com/Muzihuzi/dimi_pi/tree/main/02_gpio_pwm)<br>

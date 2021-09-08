@@ -42,3 +42,18 @@
 1. [인체감지 조명](https://github.com/Muzihuzi/dimi_pi/blob/main/03_high_level_seneor/pir_led.py)<br>
 #### 온습도 센서<br>
 1. [온습도 센서](https://github.com/Muzihuzi/dimi_pi/blob/main/03_high_level_seneor/dht11.py)<br>
+
+## 04 DISPLAY
+[폴더로 이동](https://github.com/Muzihuzi/dimi_pi/tree/main/04_display)<br>
+#### 4Digit<br>
+1. [2021 출력](https://github.com/Muzihuzi/dimi_pi/blob/main/04_display/4digit.py)<br>
+#### 7Segment FND <br>
+1. [기본 출력](https://github.com/Muzihuzi/dimi_pi/blob/main/04_display/7segment.py)<br>
+1. [카운트 다운](https://github.com/Muzihuzi/dimi_pi/tree/main/04_display)<br>
+
+## 05 COMMUNICATION
+[폴더로 이동](https://github.com/Muzihuzi/dimi_pi/tree/main/05_communication)<br>
+#### 도트 매트릭스<br>
+1. [데모](https://github.com/Muzihuzi/dimi_pi/tree/main/05_communication/max7219)<br>
+#### MCP3008 <br>
+1. [가변저항 값 읽기](https://github.com/Muzihuzi/dimi_pi/blob/main/05_communication/potentiometer.py)<br>
